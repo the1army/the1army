@@ -19,7 +19,7 @@ I'm a one-man IT army — I design, build, and run entire digital infrastructure
 ## 🏗️ Flagship builds
 
 - **Dideban** — a self-sufficient monitoring & analytics platform: automated health / security / version scans, Telegram alerts, Laravel dashboard. Runs itself. I just watch.
-- **Price bot** — real-time market prices on Cloudflare Workers + Telegram. Built for fun.
+- **Price bot** — live market prices, delivered straight to Telegram. Built for fun.
 
 ## 📊 Stats
 
