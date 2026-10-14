@@ -1,5 +1,7 @@
 <img src="banner.png" alt="ONEARMY">
 
+🇮🇷 [نسخه فارسی](README-fa.md)
+
 # 🏴 ONEARMY
 
 > One man. One mission. Zero downtime.
