@@ -2,7 +2,7 @@
 
 🇬🇧 [English version](README.md)
 
-<img src="banner.png" alt="ONEARMY">
+<img src="banner.jpg" alt="ONEARMY">
 
 # 🏴 ONEARMY
 
